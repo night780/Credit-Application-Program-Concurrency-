@@ -1,5 +1,5 @@
-<h1>This is a 'Credit application' program that sends requests to the 'bank'
-This is program utilizes Concurrency</h1>
+<h1>This is a 'Credit application' program utilizing concurrency that sends requests to the 'bank'.
+<br><br>
 
 <img src="diagram.png">
 
